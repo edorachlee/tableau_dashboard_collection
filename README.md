@@ -15,6 +15,11 @@ Instructions: You will need Tableau(this repo uses 10.2) to see these projects. 
   3. (Ver.2)GDP-CO2 Emissions Dashboard: Has same charts as Version 1, but lets user switch between charts by pressing interactive buttons instead of bullets.
      Tips: Click on the buttons "Map" or "Quadrant" to switch dynamically between the emissions category by state and corresponding quadrant chart. (Sometimes, you may need to double-click and/or wait a while for it to load.)
 
+- Data Breaches Dashboard: This Tableau dashboard visualizes the amount, type, and frequency of data breaches across U.S. companies from 2004 to 2021. Data obtained from Hishaam Armghan from Kaggle(https://www.kaggle.com/hishaamarmghan/list-of-top-data-breaches-2004-2021) published 09/03/2021.
+  Tips: Filter by Year by clicking on the desired points on the Yearly Data Breaches chart. You can also filter by any other desired data type by clicking on a dashboard section. Connected entries are automatically highlighted with mouse hovering.
+        Top N Sectors: Control the number of breached sectors.
+        Top M Companies: Control the number of breached companies.
+
 - Hospital Location Dashboard: Lets the user interact with a desired range and location of a hospital to service the most patients as possible in Dallas, TX. 
   Tips: Radius: This will set the radius around the hospital's location to help you see patients included within the radius. 
 	Center ID: This will move this radius around to a patient location to see if it is a good spot to include as many patients as possible within the radius.
