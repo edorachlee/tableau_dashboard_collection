@@ -1,8 +1,6 @@
 # Tableau_Dashboard_Collection
  A collection of Tableau dashboard data visualization projects on various data.
 
-Note: Performed as part of school work. Course number and instructor information have been omitted to prevent plagiarism.
-
 Instructions: You will need Tableau(this repo uses 10.2) to see these projects. Refer to the tips icon(Lightbulb) in each dashboard on how to interact with the dashboard.
 
 - Apple Stock Dashboard: Provides a summary of Apple stock performance with daily metrics and average stock price for last 3 months.
@@ -36,4 +34,6 @@ Instructions: You will need Tableau(this repo uses 10.2) to see these projects. 
   Tips: Google Maps Search: Try clicking on the city circles in the Superstore Map w/ Tooltip(upper left) to see the Google Maps results for the corresponding city below.
 	Select a Measure: Try selecting a desired metric from the provided options.
 	Select a Measure (Pie): Further breaks down the metric type you selected in "Select a Measure".
+	
+Note: Performed as part of school work. Course number and instructor information have been omitted to prevent plagiarism.
 
