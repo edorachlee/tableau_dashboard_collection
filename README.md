@@ -1,6 +1,8 @@
 # Tableau_Dashboard_Collection
  A collection of Tableau dashboard data visualization projects on various data.
 
+Note: Performed as part of school work. Course number and instructor information have been omitted to prevent plagiarism.
+
 Instructions: You will need Tableau(this repo uses 10.2) to see these projects. Refer to the tips icon(Lightbulb) in each dashboard on how to interact with the dashboard.
 
 - Apple Stock Dashboard: Provides a summary of Apple stock performance with daily metrics and average stock price for last 3 months.
